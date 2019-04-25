@@ -1,0 +1,570 @@
+Name of your Squadron: Name of your Squadron
+Squadron ID: Squadron ID
+Faction Affiliation: Faction Affiliation
+Superpower Affiliation: Superpower Affiliation
+Requires approval from squad leaders to join: Requires approval from squad leaders to join
+Welcome Message: Welcome Message
+Home Base: Home Base
+Choose a Faction: Choose a Faction
+None: None
+Your account has been activated.  Please login to continue.: Your account has been activated.  Please login to continue.
+Your account is already activated.: Your account is already activated.
+Your activation code has been resent. Check your INBOX.: Your activation code has been resent. Check your INBOX.
+Please enter your email: Please enter your email
+Exact spelling as depicted in the game: Exact spelling as depicted in the game
+A 4-character indicator for your Squadron in the game: A 4-character indicator for your Squadron in the game
+Choose a Superpower affiliation if applicable: Choose a Superpower affiliation if applicable
+Home base: Home base
+Manage Squadron Announcements: Manage Squadron Announcements
+Description: Description
+Welcome message: Welcome message
+Write a brief description about your Squadron. New members will see this when picking which squadron to join.: Write a brief description about your Squadron. New members will see this when picking which squadron to join.
+The welcome message will be shown to new member after joining the squadron. Use Markdown to format your message.: The welcome message will be shown to new member after joining the squadron. Use Markdown to format your message.
+Admin: Admin
+Title: Title
+Use Markdown to format your content: Use Markdown to format your content
+Message Content: Message Content
+Your changes have been updated.: Your changes have been updated.
+Your settings have been saved.: Your settings have been saved.
+Editing an announcement: Editing an announcement
+Expired CSRF Token. Please refresh the page to continue.: Expired CSRF Token. Please refresh the page to continue.
+Creating a new announcement: Creating a new announcement
+Manage Announcements: Manage Announcements
+Changes were not saved.: Changes were not saved.
+New announcement has been added.: New announcement has been added.
+"CMDR %name%": "CMDR %name%"
+Email: Email
+Password: Password
+Keep me logged in (for 7 days): Keep me logged in (for 7 days)
+Sign In: Sign In
+I forgot my password: I forgot my password
+Register a new membership: Register a new membership
+"#": "#"
+Author: Author
+Published In: Published In
+Publish In: Publish In
+The date that the announcement will automatically appear in the feed: The date that the announcement will automatically appear in the feed
+Created In: Created In
+Action: Action
+Save Changes: Save Changes
+Create: Create
+Sign in to start your session: Sign in to start your session
+Mark as Published: Mark as Published
+"ED:SCC Squadron Owner": "ED:SCC Squadron Owner"
+This is the account holder who manages this Squadron. If you change to another user, you will lose privileges.: This is the account holder who manages this Squadron. If you change to another user, you will lose privileges.
+label_previous: Previous
+label_next: Next
+Total: Total
+Items: Items
+"{0} No items|{1} one item|]1,Inf[ %count% items": "{0} No items|{1} one item|]1,Inf[ %count% items"
+Showing items: Showing items
+Permission Denied. Unable to access to this resource.: Permission Denied. Unable to access to this resource.
+"{0} No entries|{1} One entry|]1,Inf[ %start% to %end% of %count% entries": "{0} No entries|{1} One entry|]1,Inf[ %start% to %end% of %count% entries"
+Commander Name: Commander Name
+Activated: Activated
+Join Date: Join Date
+Last Login: Last Login
+Never: Never
+New: New
+Pending: Pending
+Approved: Approved
+Lock Out: Lock Out
+Banned: Banned
+Denied: Denied
+Status: Status
+Rank: Rank
+Rookie: Rookie
+Agent: Agent
+Officer: Officer
+Senior Officer: Senior Officer
+Leader: Leader
+Unable to fetch data.: Unable to fetch data.
+Search...: Search...
+Unauthorized: Unauthorized
+No Date Available: No Date Available
+"Squadron: %name%": "Squadron: %name%"
+Squadron Details: Squadron Details
+About Your Squadron: About Your Squadron
+Manage Tags: Manage Tags
+Tags Associated with Your Squadron: Tags Associated with Your Squadron
+Roles: Roles
+Customizing Commander Roles: Customizing Commander Roles
+Trade: Trade
+Combat: Combat
+Exploration: Exploration
+Import Queue Status: Import Queue Status
+Upload Files: Upload Files
+Import History: Import History
+Uploading Players Journal Log Files: Uploading Players Journal Log Files
+Unable to generate a new API Key. Invalid token, please reload the page.: Unable to generate a new API Key. Invalid token, please reload the page.
+API Key: API Key
+You only can select a maximum of 20 files (web browser limitation).: You only can select a maximum of 20 files (web browser limitation).
+"{0} No new members joined today|{1} One new member joined today|]1,Inf[ %count% new members joined today": "{0} No new members joined today|{1} One new member joined today|]1,Inf[ %count% new members joined today"
+count_prior_day: "%count%% from prior day"
+Yesterday Earnings: Yesterday Earnings
+Commanders Joined: Commanders Joined
+Invalid token, please reload the page: Invalid token, please reload the page
+User not found: User not found
+"Access Denied: Account status is %status%": "Access Denied: Account status is %status%"
+"Strength: %strength% (cracked in %number% %unit%)": "Strength: %strength% (cracked in %number% %unit%)"
+Worst: Worst
+Bad: Bad
+Weak: Weak
+Good: Good
+Strong: Strong
+Your password change has been updated: Your password change has been updated
+The current password is incorrect, and your password is not changed: The current password is incorrect, and your password is not changed
+Your new password did not match with verify password. Password is not changed.: Your new password did not match with verify password. Password is not changed.
+Password is required: Password is required
+Commander data has been purged from the system.: Commander data has been purged from the system.
+"ED:SCC Approval Requested": "ED:SCC Approval Requested"
+"Activation Code for ED:SCC": "Activation Code for ED:SCC"
+Squadron Join Request Update: Squadron Join Request Update
+Default Rank Name: Default Rank Name
+Custom Rank Name: Custom Rank Name
+Squadron Rank Classifications Saved.: Squadron Rank Classifications Saved.
+Your password has been reset: Your password has been reset
+Invalid temporary password or mismatched new/verify password pairs.: Invalid temporary password or mismatched new/verify password pairs.
+Expired CSRF Token. Please try again.: Expired CSRF Token. Please try again.
+Announcements: Announcements
+Squadron Dashboard: Squadron Dashboard
+Squadron Leaderboard: Squadron Leaderboard
+Squadron Roster: Squadron Roster
+Player Dashboard: Player Dashboard
+Player Activities Report: Player Activities Report
+Player Journal Log: Player Journal Log
+My Profile: My Profile
+Squadron Settings: Squadron Settings
+Manage Members: Manage Members
+MOTD: MOTD
+Squadron: Squadron
+Player: Player
+Administration: Administration
+Management: Management
+Criminal History: Criminal History
+Commander Performance: Commander Performance
+Commander Activities: Commander Activities
+Promotion Voting: Promotion Voting
+Sign out: Sign out
+Total Daily Earnings over last 30 days: Total Daily Earnings over last 30 days
+Bounties Collected over last 30 days: Bounties Collected over last 30 days
+Exploration Data Sold over last 30 days: Exploration Data Sold over last 30 days
+Trade Profit over last 30 days: Trade Profit over last 30 days
+Mission Rewards Collected over last 30 days: Mission Rewards Collected over last 30 days
+Pending Members: Pending Members
+purge_commander_data_body: Sometimes commanders would purge their data because the data doesn't look right. By clearing your data from the database, you can re-import your journal files to make your data more current and up-to-date. This will only purge any data associated with your current squadron. If you were previously in a different squadron, that data will not be purged. Remember, before you purge your data and re-import all of your player journal files, please quit your game and your EDMC if it is running.
+I understand that by purging the data, it is irreversible.: I understand that by purging the data, it is irreversible.
+Purge Commander Data: Purge Commander Data
+Change Password: Change Password
+Enter your current password.: Enter your current password.
+Enter a new password.: Enter a new password.
+Re-type the new password to verify.: Re-type the new password to verify.
+My Account: My Account
+User Avatar: User Avatar
+Role Tags: Role Tags
+Use 8 to 64 characters: Use 8 to 64 characters
+Besides letters, include at least a number or symbol: Besides letters, include at least a number or symbol
+Password is case sensitive: Password is case sensitive
+Password is not part of your username: Password is not part of your username
+Password is not part of old password: Password is not part of old password
+Avoid using the same password for multiple sites: Avoid using the same password for multiple sites
+Password strength is either good or strong: Password strength is either good or strong
+Purge the Data: Purge the Data
+Wealth: Wealth
+Total Asset: Total Asset
+Loan: Loan
+Federation: Federation
+Empire: Empire
+CQC: CQC
+Harmless: Harmless
+Mostly Harmless: Mostly Harmless
+Novice: Novice
+Competent: Competent
+Expert: Expert
+Dangerous: Dangerous
+Deadly: Deadly
+Penniless: Penniless
+Mostly Penniless: Mostly Penniless
+Peddler: Peddler
+Dealer: Dealer
+Merchant: Merchant
+Broker: Broker
+Entrepreneur: Entrepreneur
+Tycoon: Tycoon
+Aimless: Aimless
+Mostly Aimless: Mostly Aimless
+Scout: Scout
+Surveyor: Surveyor
+Explorer: Explorer
+Pathfinder: Pathfinder
+Ranger: Ranger
+Pioneer: Pioneer
+Recruit: Recruit
+Cadet: Cadet
+Midshipman: Midshipman
+Petty Officer: Petty Officer
+Chief Petty Officer: Chief Petty Officer
+Warrant Officer: Warrant Officer
+Ensign: Ensign
+Lieutenant: Lieutenant
+Lt. Commander: Lt. Commander
+Post Commander: Post Commander
+Post Captain: Post Captain
+Rear Admiral: Rear Admiral
+Vice Admiral: Vice Admiral
+Admiral: Admiral
+Outsider: Outsider
+Serf: Serf
+Master: Master
+Squire: Squire
+Knight: Knight
+Lord: Lord
+Baron: Baron
+Viscount: Viscount
+Count: Count
+Earl: Earl
+Marquis: Marquis
+Duke: Duke
+Prince: Prince
+King: King
+Helpless: Helpless
+Mostly Helpless: Mostly Helpless
+Amateur: Amateur
+Semi Professional: Semi Professional
+Professional: Professional
+Champion: Champion
+Hero: Hero
+Legend: Legend
+Elite: Elite
+Daily Total Earning on: Daily Total Earning on
+Percentage difference: Percentage difference
+Credits: Credits
+Activities Report for CMDR %name%: Activities Report for CMDR %name%
+Date: Date
+Type: Type
+Paying Minor Faction: Paying Minor Faction
+Amount: Amount
+Crew Paid: Crew Paid
+Earning History (Detailed): Earning History (Detailed)
+Earning History Summary: Earning History Summary
+EDMC Transaction: EDMC Transaction
+Earning History Summary by Minor Faction: Earning History Summary by Minor Faction
+Minor Faction Activities Summary: Minor Faction Activities Summary
+Criminal History (Detailed): Criminal History (Detailed)
+Criminal History Summary: Criminal History Summary
+Criminal History Summary by Faction: Criminal History Summary by Faction
+Total Earned: Total Earned
+Overall Earning: Overall Earning
+Overall Exploration: Overall Exploration
+Overall Trade: Overall Trade
+Overall Combat (Non-mission): Overall Combat (Non-mission)
+Overall Community Goal: Overall Community Goal
+Overall Missions: Overall Missions
+CG Participated: CG Participated
+Total Reward: Total Reward
+System Scanned: System Scanned
+Bodies Discovered: Bodies Discovered
+Complete SAA Scans: Complete SAA Scans
+Efficient Scans: Efficient Scans
+Efficiency Rate: Efficiency Rate
+Commander: Commander
+Missions Completed: Missions Completed
+Units Bought: Units Bought
+Units Sold: Units Sold
+Net Units: Net Units
+Amt Paid: Amt Paid
+Amt Earned: Amt Earned
+Net Earned: Net Earned
+Cr/Unit: Cr/Unit
+Date Committed: Date Committed
+Crime: Crime
+Minor Faction Issued By: Minor Faction Issued By
+Victim: Victim
+Fine: Fine
+Bounty: Bounty
+ID: ID
+Data: Data
+Timestamp: Timestamp
+Targeted Minor Faction: Targeted Minor Faction
+Previous: Previous
+Next: Next
+Anti-Xeno Activists: Anti-Xeno Activists
+Bounty Hunters: Bounty Hunters
+Explorers: Explorers
+Faction Supporters: Faction Supporters
+Humanitarian Aid Providers: Humanitarian Aid Providers
+Pirates: Pirates
+Power Supporters: Power Supporters
+Traders: Traders
+Miners: Miners
+Fuel Rats: Fuel Rats
+Seals: Seals
+Occasional: Occasional
+Weekdays: Weekdays
+Weekends: Weekends
+Weeknights: Weeknights
+Relaxed: Relaxed
+Family: Family
+Devoted: Devoted
+PvE: PvE
+PvP: PvP
+Roleplay: Roleplay
+English: English
+Portuguese: Portuguese
+German: German
+French: French
+Spanish: Spanish
+Russian: Russian
+Solo: Solo
+Open: Open
+Private Group: Private Group
+FA off: FA off
+Activities: Activities
+Attitude: Attitude
+Availability: Availability
+Game Mode: Game Mode
+Language: Language
+Play Style: Play Style
+custom_rank_instructions: In the game, Squadrons are able to customize their own rank classifications to integrate Squadron's lore. In the left column, the default rank names are listed, enter customized rank names in the right column accordingly.
+Ranks: Ranks
+Squadron Leader: Squadron Leader
+Faction / Superpower Affiliations: Faction / Superpower Affiliations
+Membership: Membership
+Total Members: Total Members
+Publish At: Publish At
+Mark this post as published (will be visible in announcements after the published date): Mark this post as published (will be visible in announcements after the published date)
+This post is pinned (always will appear on the top of page): This post is pinned (always will appear on the top of page)
+Cancel: Cancel
+Commander E-mail: Commander E-mail
+Commander Login Email: Commander Login Email
+Current Squadron Rank: Current Squadron Rank
+Choose the commander's rank: Choose the commander's rank
+Squadron Membership Status: Squadron Membership Status
+Choose the status to determine user's access privilege to the squadron: Choose the status to determine user's access privilege to the squadron
+Status Comment: Status Comment
+Please enter reason why the status is assigned as needed (if the access is being denied, etc.): Please enter reason why the status is assigned as needed (if the access is being denied, etc.)
+Date that this Commander has joined the squadron (may be different from signing up for this account): Date that this Commander has joined the squadron (may be different from signing up for this account)
+E-mail address verified: E-mail address verified
+User has read the welcome message after logging in: User has read the welcome message after logging in
+Permissions: Permissions
+Commander Details: Commander Details
+Last Updated: Last Updated
+User Permission Settings: User Permission Settings
+User has full administrative rights (overrides everything below): User has full administrative rights (overrides everything below)
+User can view management reports: User can view management reports
+User can add, edit, delete announcements: User can add, edit, delete announcements
+User can approve, deny, ban or lock out a squadron member: User can approve, deny, ban or lock out a squadron member
+User can edit a squadron member account settings: User can edit a squadron member account settings
+User can modify access permissions of a squadron member: User can modify access permissions of a squadron member
+User can view a history log of a squadron member: User can view a history log of a squadron member
+User can modify settings or permissions for himself/herself: User can modify settings or permissions for himself/herself
+'Yes': 'Yes'
+'No': 'No'
+History Log: History Log
+Manage MOTD: Manage MOTD
+Add New MOTD: Add New MOTD
+Add New Announcement: Add New Announcement
+Mark this MOTD as visible: Mark this MOTD as visible
+Mark this MOTD as visible on the login screen: Mark this MOTD as visible on the login screen
+Journal Log File: Journal Log File
+Game Date: Game Date
+Date Processed: Date Processed
+EDMC Plug-in: EDMC Plug-in
+Regenerate API Key: Regenerate API Key
+Refresh: Refresh
+Uploading Player's Journal Log Files: Uploading Player's Journal Log Files
+Player Journal Log Import History: Player Journal Log Import History
+Select Log Files: Select Log Files
+Using EDMC Plug-in to Capture Data: Using EDMC Plug-in to Capture Data
+Write your content, use Markdown to format your message.: Write your content, use Markdown to format your message.
+Squadron Members: Squadron Members
+Message: Message
+Editing an MOTD: Editing an MOTD
+Creating a new MOTD: Creating a new MOTD
+Customizing Rank Classifications: Customizing Rank Classifications
+Joined: Joined
+Total Earning: Total Earning
+Earning Rank: Earning Rank
+You: You
+Other Players in Your Squadron (Average): Other Players in Your Squadron (Average)
+Your Squadron: Your Squadron
+Other Squadrons (Average): Other Squadrons (Average)
+Reset: Reset
+Start Upload: Start Upload
+Upload Progress: Upload Progress
+First: First
+Last: Last
+Member since: Member since
+You do not have permissions to access to this resource.: You do not have permissions to access to this resource.
+Your application to join the chosen squadron was denied. If you have any questions, please contact your squadron leader.: Your application to join the chosen squadron was denied. If you have any questions, please contact your squadron leader.
+Your squadron leader has banned you.: Your squadron leader has banned you.
+You Have Been Banned: You Have Been Banned
+Application Denied: Application Denied
+Access Denied: Access Denied
+Create New Squadron: Create New Squadron
+reset_password_instruction: To reset your password, please enter your e-mail address registered with your account and an e-mail will be sent with further instructions.
+API Key not generated: API Key not generated
+Your account has been locked: Your account has been locked
+lockdown_message: Your squadron leader has locked down your account. You will need to contact your squadron leader in the game to get your account unlocked.
+Reason: Reason
+Register a new Squadron Member: Register a new Squadron Member
+Commander Name (without CMDR): Commander Name (without CMDR)
+Retype password: Retype password
+I agree to the terms: I agree to the terms
+I already have a membership: I already have a membership
+Register: Register
+pending_access_message: Your access is pending approval from the squadron leader.  Because you have joined the squadron that requires an approval from one of squadron leaders, you will receive an e-mail indicating your access has been granted as soon as you are approved.  If you have any questions, please contact your squadron leader, CMDR %cmdr%, in the game.
+Resetting Your Password: Resetting Your Password
+Temporary Password: Temporary Password
+Enter the temporary password.: Enter the temporary password.
+New Password: New Password
+Verify Password: Verify Password
+Finishing up your registration - Please select your Squadron: Finishing up your registration - Please select your Squadron
+Choose a squadron on the left.: Choose a squadron on the left.
+Create a New Squadron: Create a New Squadron
+Complete Registration: Complete Registration
+I did not get the activation e-mail. Please resend.: I did not get the activation e-mail. Please resend.
+Verify Your E-mail Address: Verify Your E-mail Address
+email_verification_message: An e-mail address verification is required to activate your account.  An email has been sent to %email% with a token to continue with the new account creation.
+Welcome to %name%: Welcome to %name%
+No Data: No Data
+No Power Allied: No Power Allied
+Approval Required: Approval Required
+Approval is not Required: Approval is not Required
+Approval is required to join this squad.: Approval is required to join this squad.
+Approval is not required to join this squadron.: Approval is not required to join this squadron.
+Creating a New Squadron: Creating a New Squadron
+Continue: Continue
+In Queue: In Queue
+Locked - Processing: Locked - Processing
+Processed: Processed
+Internal Error: Internal Error
+Processed with Errors: Processed with Errors
+Rejected: Rejected
+Errors: Errors
+Crew Wage: Crew Wage
+Credit: Credit
+"Today's Earnings": "Today's Earnings"
+Missions Completed Today: Missions Completed Today
+Bodies Found Today: Bodies Found Today
+Select Report: Select Report
+CapShipBond: Captial Ship Bond
+FactionKillBond: Faction Kill Bond
+ExplorationData: Exploration Data
+MarketBuy: Market Buy
+MarketSell: Market Sell
+CommunityGoalReward: Community Goal Reward
+MissionCompleted: Mission Completed (Non-specified)
+Mission_Altruism: Mission - Altruism
+Mission_Assassinate: Mission - Assassinate
+Mission_AssassinateWing: Mission - Assassinate (Wing)
+Mission_Collect: Mission - Collect
+Mission_Courier: Mission - Courier
+Mission_Delivery: Mission - Delivery
+Mission_DeliveryWing: Mission - Delivery (Wing)
+Mission_Disable: Mission - Disable
+Mission_DS: Mission - DS (???)
+Mission_Hack: Mission - Hack
+Mission_Massacre: Mission - Massacre
+Mission_PassengerBulk: Mission - Passenger Bulk
+Mission_Salvage: Mission - Salvage
+Mission_Scan: Mission - Scan
+Mission_Sightseeing: Mission - Sightseeing
+Mission_TheDead: Mission - The Dead
+Mission_Rescue: Mission - Rescue
+Mission_PassengerVIP: Mission - VIP Passenger
+Mission_Mining: Mission - Mining
+Mission_MassacreWing: Mission - Massacre (Wing)
+CombatBond: Combat Bond
+Settlement: Settlement
+Scannable: Scannable
+Codex: Codex
+SearchAndRescue: Search and Rescue
+Assault: Assault
+Murder: Murder
+Piracy: Piracy
+Interdiction: Interdiction
+IllegalCargo: Illegal Cargo
+DisobeyPolice: Disobey Police
+FireInNoFireZone: Fire in No Fire Zone
+FireInStation: Fire in Station
+DumpingDangerous: Dumping Dangerous
+DumpingNearStation: Dumping Near Station
+DockingMinorBlockingAirlock: Docking Minor Blocking Airlock
+DockingMajorBlockingAirlock: Docking Major Blocking Airlock
+DockingMinorBlockingLandingPad: Docking Minor Blocking Landing Pad
+DockingMajorBlockingLandingPad: Docking Major Blocking Landing Pad
+DockingMinorTrespass: Docking Minor Trespass
+DockingMajorTrespass: Docking Major Trespass
+CollidedAtSpeedInNoFireZone: Collided at Speed in No Fire Zone
+CollidedAtSpeedInNoFireZoneHullDamage: Collided at Speed in No Fire Zone (Hull Damage)
+RecklessWeaponsDischarge: Reckless Weapons Discharge
+Other: Other
+datatable_info: Showing _START_ to _END_ of _TOTAL_ entries
+datatable_info_empty: Showing 0 to 0 of 0 entries
+datatable_info_filtered: (filtered from _MAX_ total entries)
+datatable_empty_table: No data available in table
+datatable_zero_records: No matching records found
+Mark as Read: Mark as Read
+"Posted by CMDR %author%": "Posted by CMDR %author%"
+Like: Like
+Comments: Comments
+Current Password: Current Password
+Posted by Site Administrator: Posted by Site Administrator
+PS4/Xbox: PS4/Xbox
+Getting Journal Data for Console Players: Getting Journal Data for Console Players
+capi_instruction: Frontier Development (FDev) provides an external service for console players to import their journal data to any 3rd party application. However, the journal data is only kept up to 24 days and will not download today's gameplay. The app will automatically download the players' journal logs. To enable this app to retrieve your data, you will need to log in through Frontier User Portal with your credentials and confirm that you authorize ED:SCC to download your journal data.
+Token Expired: Token Expired
+Not Connected: Not Connected
+Connected: Connected
+Connect to Frontier User Portal: Connect to Frontier User Portal
+Disconnect: Disconnect
+Journal Data Feed Preferences: Journal Data Feed Preferences
+Sync Journal Data: Sync Journal Data
+Stop Syncing: Stop Syncing
+Syncing: Syncing
+Journal data last fetched on: Journal data last fetched on
+Frontier User Portal Status: Frontier User Portal Status
+upload_file_instructions_1: To maximize your experience and squadron's experience with the ED:SCC Web application, it requires data from the player journal log files which contains useful lines that record certain actions during your game play.  This application does not collect every action, just actions that are relevant to the Squadron dashboard and performance measurements. We will only capture data from your start date since you joined this squadron and data will not be capture prior to that date.  We only focus on your activities while you are an active squadron member.  When it detects that you have left the squadron, the data collection will stop at that point.
+upload_file_instructions_2: The usual location for these files can be found in this folder
+upload_file_instructions_3: "Upload the files with the filenames in a format like this: Journal.190209154325.01.log. Note that all log files end with .log. All other files like Status.json, Journal315129.cache or the similar will not be accepted."
+upload_file_instructions_4: We also do accept a zip file of all log files combined in a single upload. It will process each file and capture relevant data and store in the database. Maximum upload file size is %size%.
+edmc_instructions_1: Instead of uploading journal files manually, you can use Elite Dangerous Market Connector app to automatically update your statistics and squadron progress. You will need to download the plug-in and install it.  You can get the plug-in at
+edmc_instructions_2: "If you do not have E:D Market Connector app, you can get it at"
+edmc_instructions_3: After you install the app and/or the plug-in, you will need the API key for it to upload your player journal log automatically in real time.  Please copy and paste it in the EDMC settings. Also, you will need to enter the API server endpoint in your EDMC settings
+EDSCC API Server: EDSCC API Server
+squadron_footnote: Recorded directly from log files, EDMC, or CAPI
+rank_footnote: Rank is overridden by log files, EDMC or CAPI if promotion or demotion has occurred in the game
+Current Squadron in the Game: Current Squadron in the Game
+Keyword: Keyword
+Start Date: Start Date
+End Date: End Date
+Fine Tune Your Report Results: Fine Tune Your Report Results
+Close: Close
+Apply Filter: Apply Filter
+Save: Save
+Filter Title: Filter Title
+Filter Saved: Filter Saved
+Custom Filter was not Removed: Custom Filter was not Removed
+Custom Filter Removed: Custom Filter Removed
+Internal Error. Custom Filter was not Removed.: Internal Error. Custom Filter was not Removed.
+2fa_active: Your account is currently set up for Two-Factor Authentication and is active.
+2fa_instructions1: Two-Factor Authentication (2FA) is a way to provide an additional security to your account.  The first factor is your password and the second factor is a verification code received from either Google Authenticator or [Authy](https://authy.com/) app on a mobile device or computer.  It uses Time-based One-time Password algorithm, which the verification code changes every 30 seconds. It will only ask for a verification code when logging in at a new location or browser for the first time.
+2fa_instructions2: Before activating, you will need to download and install Google Authenticator or Authy on your mobile device or use [GAuth add-on](https://chrome.google.com/webstore/detail/gauth-authenticator/ilgcnhelpchnceeipipijaljkblbcobl) for Chrome browser or [Authenticator add-on](https://addons.mozilla.org/en-US/firefox/addon/auth-helper/?src=search) for Firefox and you are good to go.  Click on the button to activate 2FA and you will be presented with a QR-code for the app to scan or enter manually in the GAuth add-on.
+Activate 2FA: Activate 2FA
+Two-Factor Authentication is activated: Two-Factor Authentication is activated
+Invalid 2FA code. 2FA is not activated.: Invalid 2FA code. 2FA is not activated.
+Enter 2FA Code: Enter 2FA Code
+Scan the QR Code: Scan the QR Code
+2FA Secret: 2FA Secret
+Deactivate Two-Factor Authentication: Deactivate Two-Factor Authentication
+Activate 2-Factor Authentication: Activate 2-Factor Authentication
+Two-Factor Authentication has been deactivated: Two-Factor Authentication has been deactivated
+Two-Factor Authentication: Two-Factor Authentication
+Trust this device, please don't ask next time.: Trust this device, please don't ask next time.
+Enter OTP Verification Code: Enter OTP Verification Code
+Verify Code: Verify Code
+Platform: Platform
+PS4: PS4
+PC: PC
+XBox: XBox
